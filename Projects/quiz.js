@@ -87,5 +87,3 @@ console.log(`You got ${countScore} correct out of ${totalQuestions}!!`);
 
 console.log(`Your win percentage is ${percentage}%`);
 // console.log("Your percentage", percentage.toString()+ "%");
-
-// a new line
